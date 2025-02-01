@@ -29,10 +29,11 @@
 
 ---
 
-## 📊 Stats & Streaks  
+## 📊 GitHub Stats & Streaks  
 
 ![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay-tech-colab&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-tech-colab&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijay-tech-colab&theme=radical)   
 
 ---
 

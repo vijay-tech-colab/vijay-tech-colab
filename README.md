@@ -39,8 +39,7 @@
 
 ## 📫 Let's Connect  
 
-- 💼 **Portfolio**: [Coming Soon]  
-- 🐦 **Twitter/X**: [@yourhandle]()  
+- 💼 **Portfolio**: https://vijaykumarpro.netlify.app/   
 - 📩 **Email**: vijay@example.com  
 - 👨‍💻 **LinkedIn**: [Vijay Kumar](https://www.linkedin.com/in/vijay-kumar45/)  
 

@@ -4,11 +4,7 @@
 🚀 Passionate **Full-Stack Developer** with expertise in **MERN (MongoDB, Express, React, Node.js)**.  
 🎯 Always learning and building real-world projects to improve my skills.  
 💡 Enthusiastic about **clean code, performance optimization, and problem-solving**.  
-🔍 Exploring **Next.js, TypeScript, and Machine Learning** as my next tech stack!  
-
----
-<h1 align="center">Hi, I'm Vijay Kumar 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer specializing in the MERN stack</h3>
+🔍 Exploring **Next.js, TypeScript, and Machine Learning** as my next tech stack! 
 
 ---
 
@@ -30,7 +26,6 @@
 ### 🔹 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔹 Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,17 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vijay-tech-colab&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-tech-colab&theme=tokyonight" />
-</p>
-
----
-
-🔥 Always open to learning & collaborating! 🚀
-
 ## 🔥 What I Do  
 
 - 💻 **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript  
@@ -65,17 +49,6 @@
 - 🛡 **Authentication**: JWT, bcrypt, OAuth  
 - 🔬 **Data Structures & Algorithms**: Solving problems daily  
 - 📖 **Currently Learning**: NextJS, TypeScript, Python for AI  
-
----
-
-## 🚀 Projects 
-
-- 🌟 **[Blog App (MERN Stack)]()** – Authentication & Role-based Access  
-- 🛒 **[OLX Clone]()** – React, Firebase, and Node.js backend  
-- 🎥 **[Netflix Clone]()** – Frontend UI using React  
-- 🏥 **[Hospital Management System]()** – Full-Stack project with Node.js  
-
-📂 Check out my projects on **[GitHub](https://github.com/vijay-tech-colab)**  
 
 ---
 
@@ -87,10 +60,10 @@
 
 ---
 
-## 📫 Let's Connect  
-
-- 💼 **Portfolio**: https://vijaykumarpro.netlify.app/   
-- 📩 **Email**: vijay@example.com  
-- 👨‍💻 **LinkedIn**: [Vijay Kumar](https://www.linkedin.com/in/vijay-kumar45/)  
+### 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vijay-tech-colab)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-kumar45/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vijaykumarpro.netlify.app/)
+  
 
 🚀 **Open to Collaboration & Freelance Work!** Let's build something amazing together. 💡  

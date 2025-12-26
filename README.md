@@ -38,18 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay-tech-colab&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-tech-colab&layout=compact&theme=radical&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vijay-tech-colab&theme=radical)
-
-
-
----
-
 ## 🔥 What I Do
 - ⚛️ **Frontend**: React, Next.js (App Router), Tailwind CSS  
 - 🧾 **Forms & Validation**: React Hook Form + Zod (type-safe forms)  

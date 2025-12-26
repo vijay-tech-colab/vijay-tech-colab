@@ -59,9 +59,13 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay-tech-colab&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-tech-colab&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijay-tech-colab&theme=radical)
+
+![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay-tech-colab&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-tech-colab&layout=compact&theme=radical&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vijay-tech-colab&theme=radical)
+
 
 ---
 
